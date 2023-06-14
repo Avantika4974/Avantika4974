@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avantika4974
+- 👋 Hi, I’m Avantika
 - 👀 I’m interested in learning new technologies and building projects that help me solve some real-life problems
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate with you to work on really interesting projects.
